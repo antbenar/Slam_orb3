@@ -5,8 +5,7 @@ Este trabajo fue implementado en base a ORB_SLAM3, se puede acceder en el siguie
 ### Resultados
 El resultado obtenido se muestra en la siguiente animacion.
 
-![Alt Text]('https://github.com/antbenar/Slam_orb3/blob/master/Assets/resultados.gif')
-<img src='https://github.com/antbenar/Slam_orb3/blob/master/Assets/resultados.gif' width="40" height="40" />
+<img src='https://github.com/antbenar/Slam_orb3/blob/master/Assets/resultados.gif' width="100%" />
 
 ### Ejecucion
 
