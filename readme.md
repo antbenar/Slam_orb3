@@ -1,6 +1,6 @@
 ## Slam_orb3
 
-Este trabajo fue implementado en base a ORB_SLAM3, se puede acceder en el siguiente enlace: https://github.com/UZ-SLAMLab/ORB_SLAM3.
+Este trabajo fue implementado en base a ORB_SLAM3, se puede acceder al repositorio ofician en el siguiente enlace: https://github.com/UZ-SLAMLab/ORB_SLAM3.
 
 ### Resultados
 El resultado obtenido se muestra en la siguiente animacion.
