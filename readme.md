@@ -5,7 +5,7 @@ Este trabajo fue implementado en base a ORB_SLAM3, se puede acceder en el siguie
 ### Resultados
 El resultado obtenido se muestra en la siguiente animacion.
 
-![image](https://github.com/antbenar/Slam_orb3/Assets/deepin-screen-recorder_Select area_20210516235407.gif)
+![image]('https://github.com/antbenar/Slam_orb3/Assets/deepin-screen-recorder_Select area_20210516235407.gif')
 
 
 ### Ejecucion
